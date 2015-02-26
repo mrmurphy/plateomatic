@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+build
+*.swp
+*.swo
+
+static/manifest.appcache
+static/bundle.js
+
+*.ig.js
